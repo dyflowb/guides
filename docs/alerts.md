@@ -27,7 +27,7 @@ icon: material/bell
 После команды `/newbot` BotFather предложит выбрать имя для вашего бота. Это может быть любое имя, которое вам нравится, например `FishingBotNotify`.
 
 <figure markdown="span">
-  ![Выбор имени бота](/images/alerts/2.png){ width="720" }
+  ![Выбор имени бота](images/alerts/2.png){ width="720" }
 </figure>
 
 ### Шаг 2: Придумайте уникальный юзернейм
@@ -38,7 +38,7 @@ icon: material/bell
     Скопируйте токен и вставьте его в соответствующее поле в программе — это ключ к управлению вашим ботом.
 
 <figure markdown="span">
-  ![Получение API-токена](/images/alerts/3.png){ width="720" }
+  ![Получение API-токена](images/alerts/3.png){ width="720" }
 </figure>
 
 ### Шаг 3: Авторизация
@@ -55,7 +55,7 @@ icon: material/bell
     * Если вы используете пароль: отправьте боту ваш пароль.
 
 <figure markdown="span">
-  ![Правильно заполненные поля](/images/alerts/4.png){ width="620" }
+  ![Правильно заполненные поля](images/alerts/4.png){ width="620" }
   <figcaption>Правильно заполненные поля</figcaption>
 </figure>
 
@@ -69,6 +69,6 @@ icon: material/bell
     После создания через BotFather нажмите на ссылку, которую он отправил (например, `t.me/ИмяВашегоБота`). Она откроет диалог с ботом прямо в Telegram, где можно сразу отправить первое сообщение или пароль.
 
 <figure markdown="span">
-  ![Настройки оповещений](/images/alerts/5.png){ width="620" }
+  ![Настройки оповещений](images/alerts/5.png){ width="620" }
   <figcaption>Настройки оповещений в Telegram-боте</figcaption>
 </figure>
