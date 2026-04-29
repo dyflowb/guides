@@ -1,6 +1,6 @@
 ---
 title: Главная
-description: Документация и инструкции для Fishing Bot и Jobs Launche
+description: Документация и инструкции для Fishing Bot и Jobs Launcher
 icon: material/ferry
 hide:
   - navigation
