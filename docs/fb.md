@@ -95,9 +95,9 @@ icon: material/fish
 
 ## :lucide-rocket: Описание функций
 
-### :lucide-bell-dot: Телеграм или ВК оповещения
+### :lucide-bell-dot: Телеграм оповещения
 Позволяют следить за рыбалкой удаленно. 
-[Читать подробную инструкцию по настройке :octicons-arrow-right-24:](https://telegra.ph/Telegram-opoveshcheniya-08-30)
+[Читать подробную инструкцию по настройке :octicons-arrow-right-24:](alerts.md)
 
 ### :lucide-backpack: Выбор багажника
 *Работает с 6 уровня рыбалки.*
