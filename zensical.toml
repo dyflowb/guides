@@ -47,7 +47,8 @@ Copyright &copy; 2026 Dyflow
 nav = [
   "index.md",
   "fb.md",
-  "alerts.md"
+  "alerts.md",
+  "vk.md"
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
