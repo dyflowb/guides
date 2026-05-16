@@ -46,6 +46,7 @@ Copyright &copy; 2026 Dyflow
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   "index.md",
+  "jl.md",
   "fb.md",
   "alerts.md",
   "vk.md"
